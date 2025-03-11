@@ -24,7 +24,7 @@ def main():
     st.write("""
     **Curso Técnico em Administração**  
     *FIEB - Fundação e Instito de Ensino de Barueri*  
-    2020 - 2022  
+    mar/2020 - dez/2022  
     """)
 
     st.markdown("---")
