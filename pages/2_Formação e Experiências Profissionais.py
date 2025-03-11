@@ -24,7 +24,7 @@ def main():
     st.write("""
     **Curso Técnico em Administração**  
     *FIEB - Fundação e Instito de Ensino de Barueri*  
-    mar/2020 - dez/2022  
+    2020 - 2022  
     """)
 
     st.markdown("---")
@@ -57,7 +57,7 @@ def main():
         """)
 
     # Experiência 3
-    with st.expander("🔹 Estagiário em Administração, Arquivista — Prefeitura Municipal de Barueri (2022 - 2022)"):
+    with st.expander("🔹 Estagiário em Administração, Arquivista — Prefeitura Municipal de Barueri (mar/2022 - dez/2022)"):
         st.write("""
         - Organização e digitalização de documentos oficiais
         - Realizar o controle e gestão de entrada e saída de documentos e arquivos físicos e digitais, registrando 
