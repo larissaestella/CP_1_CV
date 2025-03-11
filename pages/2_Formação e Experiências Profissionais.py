@@ -35,10 +35,10 @@ def main():
     
     # Lista de Certificados
     st.markdown("""
-    - [Certificado de Desenvolvimento de Software - FIAP](https://link-do-certificado.com)
-    - [Certificado de Análise de Dados - Data Science Academy](https://link-do-certificado.com)
-    - [Certificado de Engenharia de Software - Coursera](https://link-do-certificado.com)
-    - [Certificado de Machine Learning - edX](https://link-do-certificado.com)
+    - [Certificado de Algoritmos: Aprenda a programar - FIAP](7dd74ac6f7670639f873https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=7dd74ac6f7670639f873dfb2df0dc1e3&action=viewdfb2df0dc1e3)
+    - [Certificado de Design Thinking - FIAP](https://link-do-certificado.com)
+    - [Certificado de Design Thinking - FIAP](https://link-do-certificado.com)
+    - [Certificado de Formação Social e Sustentabilidade - FIAP](https://link-do-certificado.com)
     """)
     
     st.markdown("---")
