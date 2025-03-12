@@ -9,7 +9,6 @@ st.set_page_config(
 
 # Função principal
 def main():
-    # Cabeçalho
     st.title("Formação e Experiências Profissionais")
     st.markdown("---")
 
@@ -33,7 +32,6 @@ def main():
     st.subheader("📜 Certificados")
     st.write("Confira os certificados que conquistei ao longo da minha jornada:")
     
-    # Lista de Certificados
     st.markdown("""
     - [Certificado de Algoritmos: Aprenda a programar - FIAP](7dd74ac6f7670639f873https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=7dd74ac6f7670639f873dfb2df0dc1e3&action=viewdfb2df0dc1e3)
     - [Certificado de Design Thinking - FIAP](https://link-do-certificado.com)
@@ -56,7 +54,7 @@ def main():
         de fluxos de trabalho
         """)
 
-    # Experiência 3
+    # Experiência 2
     with st.expander("🔹 Estagiário em Administração, Arquivista — Prefeitura Municipal de Barueri (mar/2022 - dez/2022)"):
         st.write("""
         - Organização e digitalização de documentos oficiais
@@ -71,9 +69,8 @@ def main():
     st.markdown("---")
 
     # Rodapé
-    st.markdown("🔙 [Voltar para Home](./)")  # Link de volta a home 
+    st.markdown("🔙 [Voltar para Home](./)") 
     st.markdown("Desenvolvido por Larissa Estella.")
 
-# Executa o app
 if __name__ == "__main__":
     main()

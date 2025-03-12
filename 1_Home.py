@@ -55,7 +55,5 @@ def main():
     # Rodapé
     st.markdown("Desenvolvido por Larissa Estella.")
 
-
-# Executa o app
 if __name__ == "__main__":
     main()

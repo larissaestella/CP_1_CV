@@ -9,11 +9,9 @@ st.set_page_config(
 
 # Função principal
 def main():
-    # Título
     st.title("💻 Skills Profissionais")
     st.markdown("---")
 
-    # Introdução
     st.write("""
     Aqui estão algumas das principais habilidades que desenvolvi ao longo da minha trajetória profissional, 
     acadêmica e pessoal.
@@ -26,25 +24,25 @@ def main():
     
     with col1:
         st.markdown("**Linguagens de Programação**")
-        st.progress(50)  # Python
+        st.progress(50)  
         st.write("Python")
-        st.progress(70)  # JavaScript
+        st.progress(70)  
         st.write("JavaScript")
-        st.progress(50)  # Java
+        st.progress(50)  
         st.write("Java")
-        st.progress(40)  # Power BI
-        st.write("Power BI")
         st.progress(40)  
+        st.write("C++")
+        st.progress(20)  
     
     with col2:
         st.markdown("**Ferramentas e Tecnologias**")
-        st.progress(85)  # Git/GitHub
+        st.progress(85)  
         st.write("Git & GitHub")
-        st.progress(75)  # MySQL
+        st.progress(75)  
         st.write("MySQL")
-        st.progress(50)  # React/Node.js
+        st.progress(50)  
         st.write("React / Node.js")
-        st.progress(50)  # Metodologia ágil
+        st.progress(50)  
         st.write("Metodologia ágil")
         st.progress(60) 
 
@@ -79,6 +77,5 @@ def main():
     st.markdown("🔙 [Voltar para Home](./)")
     st.markdown("Desenvolvido por Larissa Estella.")
 
-# Executa o app
 if __name__ == "__main__":
     main()
