@@ -34,9 +34,9 @@ def main():
     
     st.markdown("""
     - [Certificado de Algoritmos: Aprenda a programar - FIAP](7dd74ac6f7670639f873https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=7dd74ac6f7670639f873dfb2df0dc1e3&action=viewdfb2df0dc1e3)
-    - [Certificado de Design Thinking - FIAP](https://link-do-certificado.com)
-    - [Certificado de Design Thinking - FIAP](https://link-do-certificado.com)
-    - [Certificado de Formação Social e Sustentabilidade - FIAP](https://link-do-certificado.com)
+    - [Certificado de Design Thinking - FIAP](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=7374accb2ea8026be9932e7c05a1f4b6&action=view)
+    - [Certificado de Design Thinking Process- FIAP](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=e1720332058c183f15b4d6cd11a48c86&action=view)
+    - [Certificado de Formação Social e Sustentabilidade - FIAP](https://on.fiap.com.br/local/nanocourses/gerar_certificado.php?chave=35995b50a5b46efe8faf37f73d4d93ca&action=view)
     """)
     
     st.markdown("---")
